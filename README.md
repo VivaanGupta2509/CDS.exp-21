@@ -148,3 +148,13 @@ int main(void)
 
 ## Outputs - 
 
+## 1-
+<img width="534" alt="Screenshot 2024-10-22 at 1 58 37 PM" src="https://github.com/user-attachments/assets/047c3836-d8fd-4e14-a749-ee0413a62c6a">
+
+## 2-
+<img width="654" alt="Screenshot 2024-10-22 at 1 59 58 PM" src="https://github.com/user-attachments/assets/00ce8fa3-2fdf-477c-81a4-4888a58cbd26">
+
+## Conclusion
+In this experiment we learnt how to search an element using different searching algorithms like linear serach and binary search.
+
+
